@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/lockup-horizontal.png" alt="Atlas" width="480" />
+  <img src="./assets/lockup-horizontal-dark.png" alt="Atlas" width="480" />
 </div>
 
 <div align="center">
