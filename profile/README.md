@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/lockup-horizontal-dark.png" alt="Atlas" width="100%" />
+  <img src="assets/lockup-horizontal-dark.png" alt="Atlas" width="100%" />
 </div>
 
 <div align="center">
@@ -13,14 +13,14 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/atlas-assistant-system/atlas-system">source</a> · <a href="https://github.com/atlas-assistant-system/assets">assets</a>
+  <a href="assets/">assets</a>
 </div>
 
 <br />
 
 <div align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,gradle,sqlite,js,html,css,git&titles=true" alt="Java, Gradle, SQLite, JavaScript, HTML, CSS, and Git" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,gradle,sqlite,js,html,css,git&titles=true" alt="Technology stack" />
   </a>
 </div>
 
